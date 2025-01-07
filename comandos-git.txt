@@ -1,0 +1,18 @@
+Comandos básicos
+
+
+git init
+
+git --version
+
+git config --global user.name "Nombre y Apellido"
+
+git config --global user.email ejemplo@ejemplo.com
+
+git config --list  (ver configuracion)
+
+git status (chequear el estado del repositorio)
+
+git add .
+
+git commit -m "comentario de ejemplo"
